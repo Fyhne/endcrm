@@ -11,3 +11,4 @@ joseph:
 kyle:
 - got obliterated by linear alg and started springboot course
 - 6/15/23 switched to flask working on authentication (we love python syntax now)
+- 6/16/23 made CRUD api storing to firebase
